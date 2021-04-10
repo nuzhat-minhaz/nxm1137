@@ -1,4 +1,5 @@
-<h3>In my native language Bangla, *tech-techie* means lizard.:dragon:</h3>
+<h2>In my native language Bangla, *tech-techie* means lizard.:dragon:</h2>
+<img src="https://media1.tenor.com/images/2811924602cf8521e134c4fcc31ad0d8/tenor.gif?itemid=17916956" width="150" height="150">
 <hr>
 
 <h4><i>Hellooo I'm Nuzhat (pronounced: Nooz-haath). I've been an artist all my life. And then I somehow ended up on GitHub.:dizzy_face: <br/> 
